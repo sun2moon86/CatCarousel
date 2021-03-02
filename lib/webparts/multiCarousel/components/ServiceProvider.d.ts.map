@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceProvider.d.ts","sourceRoot":"","sources":["../../../../src/webparts/multiCarousel/components/ServiceProvider.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAE5D,qBAAa,eAAe;IACxB,OAAO,CAAC,SAAS,CAAiB;IAClC,OAAO,CAAC,MAAM,CAAS;gBACJ,OAAO,EAAE,cAAc,EAAE,MAAM,EAAE,MAAM;IAI1D,OAAO,CAAC,0BAA0B,CAOhC;IACW,SAAS;CASzB"}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "297c1532-b954-42a0-ba81-01d98271a934",
+  "alias": "MultiCarouselWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": [
+    "SharePointWebPart"
+  ],
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": {
+        "default": "Other"
+      },
+      "title": {
+        "default": "multiCarousel"
+      },
+      "description": {
+        "default": "multiCarousel description"
+      },
+      "officeFabricIconFontName": "Page",
+      "properties": {
+        "TitleofCarousel": "Cats Carousel",
+        "seeMore": "See more",
+        "URL": "https://thecatapi.com/",
+        "apiURL": "https://api.thecatapi.com"
+      }
+    }
+  ]
+}
